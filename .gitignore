@@ -1,0 +1,10 @@
+# Data files
+data/wallet_risk_scores.csv
+data/sample_results.csv
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
